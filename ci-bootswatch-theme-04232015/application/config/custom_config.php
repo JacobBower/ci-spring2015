@@ -2,7 +2,7 @@
 //custom_config.php - a place to save global settings
 
 
-$config['style'] = 'cosmo.css';
+$config['style'] = 'flatly.css';
 $config['banner'] = 'Default Banner';
 $config['title'] = 'Default Title';
 $config['copyright'] = 'Default Copyright';
